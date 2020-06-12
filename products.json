@@ -1,9 +1,9 @@
 [{
     "id":123,
     "title":"iPhone 7 Black Silicone Case",
-    "price":49.99,
+    "quantity":1,
     "img":"bell-lg.png",
-    "price":1.1
+    "price":49.99
 },{
     "id":456,
     "title":"Bullhorn",
