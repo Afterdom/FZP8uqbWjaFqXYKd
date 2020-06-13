@@ -7,13 +7,13 @@
 },{
     "id":456,
     "title":"Bullhorn",
-    "quantity":1,
+    "quantity":3,
     "img":"bullhorn-lg.png",
     "price":43.21
 },{
     "id":789,
     "title":"Clock",
-    "quantity":1,
+    "quantity":2,
     "img":"clock-lg.png",
     "price":45.67
 },{
